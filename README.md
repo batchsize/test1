@@ -11,5 +11,5 @@
 $ git clone 
 $ mkdir build && cd build
 $ cmake ..
-$ /.demo
+$ ./demo
 ```
